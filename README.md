@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A whatsapp clone built using MongodB, Express, Nodejs and React. Used Pusher to provide realtime updates between Frontend and Backend. 
 
 ## Available Scripts
 
